@@ -1,0 +1,26 @@
+﻿// **********************************************************************
+// - FileName:          #SCRIPTNAME#.cs
+// - Author:              #AuthorName#
+// - CreateTime:       #CreateTime#
+// - Email:                #AuthorEmail#
+// - Modifier:
+// - Dscription:
+// - (C)Copyright  
+// - All Rights Reserved.
+// **********************************************************************
+
+using UnityEngine;
+using System.Collections;
+
+public class #SCRIPTNAME# : MonoBehaviour {
+
+    // Use this for initialization
+    void Start () {
+
+    }
+
+    // Update is called once per frame
+    void Update () {
+
+    }
+}
